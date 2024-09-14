@@ -15,3 +15,5 @@ Create an HTML page that includes:
 3. Table Section:
     - A table with predefined columns and rows (e.g., a simple data table)
     - The table can display some sample data or be empty for now
+    - ![Login](https://github.com/user-attachments/assets/55509284-7edd-4b0a-8e9b-4abf1803d737)
+
